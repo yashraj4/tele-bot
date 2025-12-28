@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Bot Architect",
+  "description": "A comprehensive developer suite for generating and simulating a Telegram Bot ecosystem with a Python FastAPI backend, PostgreSQL database, and AI-powered interaction preview.",
+  "requestFramePermissions": []
+}
